@@ -1,7 +1,9 @@
 # Travel_website_UI-FIGMA
 Explore the world through my travel website's inviting design, meticulously created on Figma. Navigate your wanderlust with ease through a visually stunning and user-friendly interface, making trip planning a delightful adventure.
-
-https://www.figma.com/proto/wLEhpZgc7rShyAdkLuyxC1/Projects?page-id=0%3A1&type=design&node-id=250-2&viewport=-379%2C-629%2C0.04&t=d9Jo6TdXPTVgZhHw-1&scaling=contain&starting-point-node-id=1%3A8&mode=design
+# File link
+https://www.figma.com/design/vmuaCSJ1h0ooIU7BZgL3TV/Travel_website_UI?node-id=0-1&t=g0Y3x5dl1xxifdpB-1
+# Prototype 
+https://www.figma.com/proto/vmuaCSJ1h0ooIU7BZgL3TV/Travel_website_UI?page-id=0%3A1&node-id=1-2&node-type=canvas&viewport=526%2C361%2C0.07&t=mXkDxHOzMGBiRL5Q-1&scaling=scale-down&content-scaling=fixed
 
 ![travelllll](https://github.com/NikitaKhuspe1729/Travel_website_UI-FIGMA/assets/125488086/d3027a3b-a061-4384-a4c6-19a40c1d80f7)
 
